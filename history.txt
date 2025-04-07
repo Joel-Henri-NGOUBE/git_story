@@ -8,3 +8,5 @@
 "Bla bla bla blabla bla bla Bla bla bla blabla bla bla"
 
 "Bon ben c'est autre chose que bla bla"
+
+"Et ainsi, l'aventure continua, emportant nos héros vers des contrées encore inexplorées, où chaque pas révélait un nouveau mystère."
